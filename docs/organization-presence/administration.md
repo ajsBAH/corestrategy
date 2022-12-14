@@ -7,3 +7,5 @@ permalink: /administration
 ---
 
 # Administration
+
+The next step is to create user roles, invite users and establish Team (**optional**). Users are assigned to organizational units which were established in the previous step.

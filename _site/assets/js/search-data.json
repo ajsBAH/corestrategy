@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Administration",
     "title": "Administration",
-    "content": " ",
+    "content": "The next step is to create user roles, invite users and establish Team (optional). Users are assigned to organizational units which were established in the previous step. ",
     "url": "/corestrategy/administration",
     "relUrl": "/administration"
   },"2": {
@@ -144,10 +144,10 @@
     "relUrl": "/navigation"
   },"24": {
     "doc": "Organization's Presence",
-    "title": "Organization’s Presence",
-    "content": " ",
-    "url": "/corestrategy/organization-presence#organizations-presence",
-    "relUrl": "/organization-presence#organizations-presence"
+    "title": "Establishing Organization’s Presence",
+    "content": "After the initial user sign-on, the default organization profile is created and further populated by following directions provided in the remainder of this document. Organization Definitions . All organizational definitions are initially populated by establish organization profile. | Define the organization mission, vision, and values | Define organizational principles | Define the organization &amp; team structure | . Establish Organization Profile . | Under Organization Click on Overview | Upload Organization Logo | Provide Organization Description | Enter Address Information* o Country o State o City o Address o Zip code o Click on Save or Cancel to discard changes. | . Enter Mission and Vision Statements . | Click on Mission, Vision tab | Complete Organization’s Mission statements | Complete Organization’s Vision statements | Complete Organization’s Values statements | Click on Save | . Establish Organization Structure . | The default Organization is created during the sign-up process. | To add Management level, Business Unit and Operational level Click on (…) Icon. | On the Add Organization popup window, select (radio button) for the appropriate Level of Organization* | Provide the Name of the Management level or Business level or Operational Level. | Select the Parent Organization* to establish the organization hierarchy. | Select an Icon for the newly created Organization (Optional). | Click on Save Verify Organization Chart and Hierarchy | Click on Organization Chart to verify the Organization structure. | . Verify Organization Chart and Hierarchy . | Click on Organization Chart to verify the Organization structure. | . ",
+    "url": "/corestrategy/organization-presence#establishing-organizations-presence",
+    "relUrl": "/organization-presence#establishing-organizations-presence"
   },"25": {
     "doc": "Organization's Presence",
     "title": "Organization's Presence",
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "Plan",
     "title": "Plan",
-    "content": " ",
+    "content": "Strategic planning is an organization’s process of defining its strategy or direction and allocating its resources to pursue this strategy—generally, strategic planning impacts the entire Organization instead of a single division, department, or project. From the side navigation bar, User can create Drivers, Goals, Objectives, and Strategic Initiatives of the Organization . ",
     "url": "/corestrategy/plan",
     "relUrl": "/plan"
   },"30": {

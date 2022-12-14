@@ -1,7 +1,7 @@
 {"0": {
     "doc": "About Core-CSI",
     "title": "About Core-CSI",
-    "content": " ",
+    "content": "Core-CSI is a small, disadvantaged business (SDB) headquartered in Quantico, Virginia (VA). Established in 2015, we provide trusted, purposeful, and proven Program/ Project Management, Enterprise Architecture, System Engineering, Business Process Re-engineering, and Cyber Security support services to the United States (US) Intelligence Community (IC), the Department of Defense (DoD), Federal, and Commercial customers across the US and worldwide. ",
     "url": "/corestrategy/about",
     "relUrl": "/about"
   },"1": {
@@ -25,13 +25,13 @@
   },"4": {
     "doc": "Core-Values",
     "title": "Core-Values",
-    "content": " ",
+    "content": ". | Act with courage, challenge the status quo, find ways to grow our company and each other. | Integrity be honest, ethical, and trustworthy in your dealings. | Deliver our very best in all we do while holding ourselves accountable for results. | . ",
     "url": "/corestrategy/core-values",
     "relUrl": "/core-values"
   },"5": {
     "doc": "Dashboard",
     "title": "Dashboard",
-    "content": " ",
+    "content": "From the side navigation bar, User can launch various analytical models. Core Strategy incorporates four models to include: Balanced Scorecard, Strategy Roadmap, PESTLE Analysis and Strategy Tree. To navigate to the desired model, expand the vertical ribbon bar on the left and select the desired model. Core-Strategy Dashboard is the main landing page for organization users to view the overall status of their taskings, Performance measures, Alerts and Notifications. Based on the assigned user permissions, the User can view the roadmap of the Organization’s driver, goals, objectives, or strategic Initiative milestones and KPIs, organization top drives goals, objectives, and the ones that are at risk. FIGURE 01 CORE-STRATEGY DASHBOARD . ",
     "url": "/corestrategy/dashboard",
     "relUrl": "/dashboard"
   },"6": {
@@ -120,10 +120,10 @@
     "relUrl": "/login"
   },"20": {
     "doc": "Message From CEO",
-    "title": "Message from CEO",
-    "content": " ",
-    "url": "/corestrategy/message-from-ceo#message-from-ceo",
-    "relUrl": "/message-from-ceo#message-from-ceo"
+    "title": "Message from Pulkit Kapila, CEO, Core-CSI",
+    "content": "Management consulting is an art, and Core-CSI has over 50 years of combined strategy management and execution expertise. Since 2015 we have been delivering data driven and results oriented outcomes of organizations goals, objectives, and strategic initiatives. We understand that the 80% of the strategies fail during execution and that is why we are enthusiastic to solve the execution challenge at the enterprise scale. Our expertise and industry best practices led to the development of Core-Strategy, an-Enterprise Strategy management tool with features like: Objectives and Key Results Framework, SMART Goals, Balance Scorecard, PESTLE Analysis, near real time KPI and Milestone Tracking we enable transparency and traceability across the enterprise. ",
+    "url": "/corestrategy/message-from-ceo#message-from-pulkit-kapila-ceo-core-csi",
+    "relUrl": "/message-from-ceo#message-from-pulkit-kapila-ceo-core-csi"
   },"21": {
     "doc": "Message From CEO",
     "title": "Message From CEO",
@@ -133,7 +133,7 @@
   },"22": {
     "doc": "Mission",
     "title": "Mission",
-    "content": " ",
+    "content": "As your trusted partner Core-CSI helps to design, plan, implement, and successfully execute your organization’s goals, objectives, and strategic initiatives. ",
     "url": "/corestrategy/mission",
     "relUrl": "/mission"
   },"23": {
@@ -205,7 +205,7 @@
   },"34": {
     "doc": "Standards",
     "title": "Standards",
-    "content": " ",
+    "content": "Core-Strategy incorporates various standards and industry best practices. | TOGAF. The TOGAF® Standard, a standard of The Open Group, is a proven Enterprise Architecture methodology and framework used by the world’s leading organizations to improve business efficiency. | Six Sigma. Six Sigma streamlines quality control to improve current processes, products, or services. | Information Technology Infrastructure Library (ITIL). ITIL is a set of best practice processes for delivering IT (Information Technology) services to your organization’s customers. ITIL has its foundations in the IT world, but its principles can easily be used outside of it, within Facilities or HR (Human Resources) departments. | COBIT 5. COBIT is an IT governance framework for businesses wanting to implement, monitor and improve IT management best practices . | . ",
     "url": "/corestrategy/standards",
     "relUrl": "/standards"
   },"35": {
@@ -277,7 +277,7 @@
   },"46": {
     "doc": "Terminology",
     "title": "Terminology",
-    "content": " ",
+    "content": "| Keywords | Description | . | Strategy | Strategy is a hypothesis — a best guess and set of assumptions as to the appropriate course of action given their knowledge of information concerning the environment, resident competencies, competitive positions, and so on. What is needed is a method to document and test the assumptions inherent in the strategy, and the Balanced Scorecard does just that. | . | Strategic Management | Strategic management can be defined as the art and science of formulating, implementing, and evaluating cross-functional decisions that enable an organization to achieve its objectives. | . | Stakeholders | A Stakeholder represents the role of an individual, Team, or Organization (or classes thereof) that represents their interests in the effects of the architecture. A Stakeholder has one or more interests in, or concerns about, the Organization and its enterprise architecture. To direct efforts to these interests and concerns, stakeholders change, set, and emphasize goals. | . | Principle | A Principle represents a statement of intent defining a general property that applies to any system in a particular context in the business. Principles define the intended properties of systems. A Principle defines a general property that applies to any system in a particular context. A Principle is motivated by some goal or driver. Organizational values, best practices, and design knowledge may be reflected and made applicable principles. | . | Strategy Planning | Strategic planning is an organization’s process of defining its strategy or direction and allocating its resources to pursue this strategy—generally, strategic planning impacts the entire Organization instead of a single division, department, or project. | . | Tactical Planning | Tactical planning is short-range planning emphasizing the current operations of various parts of the Organization. Short Range is defined as a period extending about one year or less in the future. | . | Operational Planning | Operational planning is the process of linking strategic goals and objectives to tactical goals and objectives. It describes milestones conditions for success and explains how, or what portion of, a strategic plan will be put into operation during a given operational period. | . | Perspective | Perspective refers to a category of performance objectives or measures. Most organizations choose the standard four perspectives (financial, customer, internal process, and learning and growth) | . | Strategic Theme | Strategic themes are the primary, high-level business strategies that form the Organization’s business model. We sometimes refer to themes as “pillars of excellence.” | . | Performance Criteria | Performance criteria express what is to be measured and why (i.e., how success is defined). The selection process involves identifying dimensions and variables relevant to an enterprise’s successful operation. | . | Drivers | A Driver represents an external or internal condition that motivates an organization to define its goals and implement the changes necessary to achieve them. Drivers may be internal; in which case they are usually associated with a Stakeholder. They may also be external, e.g., economic changes or changing legislation. | . | Goal | A goal in an organization describes what a company expects or hopes to accomplish over a specific period, in other words, where it hopes to be at a future date. Goals are observable and measurable results having one or more objectives to be achieved. Goals are typically broad in scope. For example, a goal might be for an organization to “increase profits.” Or an individual might have a goal to “become certified.” | . | SMART Goals | A SMART goal is used to help guide goal setting. SMART is an acronym that stands for Specific, Measurable, Achievable, Realistic, and Timely. Therefore, a SMART goal incorporates all these criteria to help focus your efforts and increase the chances of achieving your goal. | . | Objectives | Objectives are a specific result you are trying to achieve within a period and with available resources. They are considered more specific and more accessible to measure than a goal. Think of them as the steps you will take to achieve the goal. | . | Strategic Initiatives/Projects | Strategic initiatives are the specific projects, activities, or programs you will embark upon to meet or exceed your performance targets. | . | Outcome | An Outcome represents a result. Outcomes are high-level, business-oriented results produced by the capabilities of an organization. Outcomes are closely related to requirements, goals, and other intentions. | . | Balanced Scorecard | The balanced scorecard (BSC) is a strategic planning and management system. Organizations us BSCs (balanced scorecard) to: * Communicate what they are trying to accomplish * Align the day-to-day work that everyone is doing with strategy * Prioritize projects, products, and services * Measure and monitor progress towards strategic targets The name “balanced scorecard” comes from the idea of looking at strategic measures in addition traditional financial measures to get a more “balanced” view of performance. | . | Strategy Map | A strategy map visual represents an organization’s overall objectives and how they relate to one another. The map is created during the strategic planning process and is used as primary reference material during periodic strategy check-in and review meetings. It is one of the main components of the balanced scorecard methodology. | . | Objective and Key Results (OKR) | Objectives and key results (OKR) is a goal-setting framework that helps organizations define goals — or objectives — and then track the outcome. The framework is designed to help organizations establish far-reaching goals in days instead of months. | . | Mind-Map | A mind map is a hierarchical diagram that shows the complete strategic management relationship from the Organization’s vision to all the objectives and programs in a single diagram. It helps show the BIG picture within the Organization, which helps users prioritize tasks and make informed decisions. | . | Strategy Tree | A Strategy Tree is a way to lay out and define your strategic plan. It can be used to guide your strategy formation, communicate the plan to your team or stakeholders and as a way to report on progress Core-Strategy against your overall goals. | . ",
     "url": "/corestrategy/terminology",
     "relUrl": "/terminology"
   },"47": {
@@ -288,14 +288,8 @@
     "relUrl": "/user-guide-updates"
   },"48": {
     "doc": "Vision",
-    "title": "Mission",
-    "content": " ",
-    "url": "/corestrategy/vision#mission",
-    "relUrl": "/vision#mission"
-  },"49": {
-    "doc": "Vision",
     "title": "Vision",
-    "content": " ",
+    "content": "Enable transparency and accountability across enterprise while increasing the success rate of strategic initiatives. ",
     "url": "/corestrategy/vision",
     "relUrl": "/vision"
   }
